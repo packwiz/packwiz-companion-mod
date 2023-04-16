@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[45,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "packwiz-companion"
+version = "${version}"
+displayName = "packwiz Companion Mod"
+authors = "comp500"
+description = '''
+Companion mod for packwiz, providing Mod Menu integration
+'''
+#logoFile = ""
+
+[[dependencies.packwiz-companion]]
+modId = "forge"
+mandatory = true
+versionRange = "[45,)"
+ordering = "NONE"
+side = "BOTH"

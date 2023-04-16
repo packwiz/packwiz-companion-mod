@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "packwiz-companion",
+  "version": "${version}",
+  "name": "packwiz Companion Mod",
+  "description": "Companion mod for packwiz, providing Mod Menu integration",
+  "authors": [
+    "comp500"
+  ],
+  "contact": {
+    "homepage": "https://packwiz.infra.link/",
+    "sources": "https://github.com/packwiz/packwiz-companion-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/packwiz-companion/icon.png",
+  "environment": "*",
+  "entrypoints": {
+
+  },
+  "depends": {}
+}

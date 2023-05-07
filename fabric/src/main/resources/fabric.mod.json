@@ -15,7 +15,9 @@
   "icon": "assets/packwiz-companion/icon.png",
   "environment": "*",
   "entrypoints": {
-
+    "modmenu": [
+      "link.infra.packwiz.companion.PackwizCompanionModMenuCompatibility"
+    ]
   },
   "depends": {}
 }
